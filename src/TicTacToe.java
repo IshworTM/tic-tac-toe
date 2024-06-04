@@ -153,8 +153,4 @@ public class TicTacToe implements ActionListener {
             button.setEnabled(true);
         }
     }
-
-    // public void checkDraw(boolean isDraw) {
-
-    // }
 }
